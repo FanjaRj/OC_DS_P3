@@ -2,8 +2,7 @@
 Ce projet propose une idée d’application en réponse à un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation lancé par l'agence "Santé publique France".
 
 ## Données
-Jeu de données Open Food Facts : https://world.openfoodfacts.org/
-Les champs sont séparés en quatre sections :
+Jeu de données Open Food Facts (https://world.openfoodfacts.org/). Les champs sont séparés en quatre sections :
 - Les informations générales sur la fiche du produit : nom, date de modification, etc.
 - Un ensemble de tags : catégorie du produit, localisation, origine, etc.
 - Les ingrédients composant les produits et leurs additifs éventuels.
