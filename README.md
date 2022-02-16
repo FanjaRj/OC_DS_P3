@@ -21,7 +21,7 @@ Jeu de données Open Food Facts (https://world.openfoodfacts.org/). Les champs s
 
 4) Justifier votre idée d’application. Identifier des arguments justifiant la faisabilité (ou non) de l’application à partir des données Open Food Facts.
 
-## Résultats
+## Livrables
 - P3_Nettoyage.ipynb : notebook comportant les nettoyages des données (non cleané)
 - P3_Exploration.ipynb : notebook comportant une analyse univariée, multivariée, une réduction dimensionnelle, ainsi que les différentes questions de recherches associées (non cleané)
-- P3_presentation.pdf : support de présentation
+- P3_Presentation.pdf : support de présentation
